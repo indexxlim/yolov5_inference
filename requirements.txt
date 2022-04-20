@@ -1,0 +1,7 @@
+loguru
+pydantic
+fastapi
+uvicorn[standard]
+pandas
+seaborn
+pytest
